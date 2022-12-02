@@ -1,7 +1,8 @@
 # JavaProjects
-Collection of smaller projects covering diverse java topics
+Collection of smaller projects covering diverse java topics.
+Assimilated here for future inspection and repetition.
 ## Structure
-every branch of this repo is a seperate project
+Every branch of this repo is a seperate project.
 ## IDE
 IntelliJ IDEA
 
