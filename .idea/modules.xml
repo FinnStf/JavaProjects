@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaProjects.iml" filepath="$PROJECT_DIR$/.idea/JavaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gui_actionlistener_impl/gui_actionlistener_impl.iml" filepath="$PROJECT_DIR$/gui_actionlistener_impl/gui_actionlistener_impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple_console_impl/simple_console_impl.iml" filepath="$PROJECT_DIR$/simple_console_impl/simple_console_impl.iml" />
     </modules>
   </component>
 </project>
